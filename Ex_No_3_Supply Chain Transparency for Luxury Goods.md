@@ -1,3 +1,6 @@
+## Experiment 4 : Supply Chain Transparency for Luxury Goods
+## Date : 13-08-2026
+
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
@@ -50,12 +53,18 @@ contract LuxurySupplyChain {
 ```
 # Expected Output:
 A luxury good (e.g., a Rolex watch) is registered on-chain.
+<img width="1128" height="619" alt="image" src="https://github.com/user-attachments/assets/42fe533f-efd7-4963-b4f7-2186e8f10b37" />
+
 
 
 Ownership is transferred at every checkpoint.
+<img width="1128" height="624" alt="image" src="https://github.com/user-attachments/assets/05c7076c-d17c-49fb-8cc3-f950b6376c0d" />
+
 
 
 Buyers can check the authenticity before purchasing.
+<img width="1137" height="614" alt="image" src="https://github.com/user-attachments/assets/a0ea9cf8-3f64-408b-ac2b-fbc7f37c801e" />
+
 
 
 # High-Level Overview:
@@ -66,3 +75,4 @@ Teaches real-world supply chain use cases.
 
 # RESULT : 
 
+Hence we implemented code for a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
