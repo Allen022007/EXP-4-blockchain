@@ -1,6 +1,9 @@
 ## Experiment 4 : Supply Chain Transparency for Luxury Goods
 ## Date : 13-08-2026
-
+```
+Name : W Allen Johnston Ozario
+Reg. No : 212224110004
+```
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
